@@ -1,0 +1,9 @@
+<apex:page id="Page" showHeader="false" controller="MyCustomVFPage_CTR" action="{!InitPage}" cache="false">
+
+    <apex:form >
+
+        <center><h1>Thank you for your response and same has been updated to your Manager.</h1></center>
+
+    </apex:form>
+
+</apex:page>
